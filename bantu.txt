@@ -1,0 +1,57 @@
+ 115.2116003
+
+prs_id			txtID
+prs_nama		txtperusahaan
+prs_lokasidet		txtlokasidet
+jalan_id		cbojalan
+kategory_id		cbokategory
+prs_bidangusaha		txtbidangusaha
+prs_telpkantor		txttelpkantor
+prs_telpcontact		txtnohp
+prs_namacontact		txtnamakontak
+prs_email		txtemail
+prs_map_latitude	txtlat
+prs_map_longitude	txtlong
+prs_noakta		txtnoakta
+prs_tglakta		txttglakta
+prs_noHAM		txtnoham
+prs_tglHAM		txttglham
+kelurahan_id		cbokelurahan
+prs_adaNPWP		cekNPWP
+prs_adaSHM		cekSHM
+prs_adasewatanah	cekSewaTanah
+prs_nodaftarPMA		txtnodaftarpma
+prs_adaIMB		cekIMB
+prs_adasewagedung	cekSewaGedung	
+prs_noSITU		txtnositu
+prs_noHO		txtnoho
+prs_adaUKLUPL		cekUKL
+prs_noTDP		txtnotdp
+prs_adaLKPM		cekLKPM
+prs_adaKITAS		cekKITAS
+prs_noIPPMA		txtnoippma
+prs_noIPPRB		txtijinperubahan
+prs_noIPPRLS		txtijinperluasan
+prs_tahunberlakuIPPMA	txttahunippma
+prs_noIjinUsaha		txtijinusaha
+prs_nilaiInvestasiUSD	txtnilaiusd
+prs_nilaiInvestasiRP	txtnilairp
+prs_jumlahWNA_laki	txtwnalaki
+prs_jumlahWNA_perempuan	txtwnaperempuan
+prs_jumlahWNI_laki	txtwnilaki
+prs_jumlahWNI_perempuan	txtwniperempuan
+klasmasalah_id
+sudahmelengkapiberkas
+tgl_melengkapi
+aktif_id
+
+tb_monitoring:
+monit_id
+monit_userupdate
+monit_tglupdate
+jadwal_id
+klasmasalah_id
+targetwaktu
+catatanlapangan
+iscancel
+catatanbatal
